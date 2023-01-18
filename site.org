@@ -183,11 +183,11 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 4
 :END:
 
-| Week | Date   | Lecture Topic / Objectives     |
-|------+--------+--------------------------------+
-|    1 | Jan 18 | [[*Course Introduction]]       |
-|      | Jan 20 | [[*IO]]                        |
-|------+--------+--------------------------------+
+| Week | Date       | Lecture Topic / Objectives |
+|------+------------+----------------------------|
+|    1 | January 18 | [[*Course Introduction]]   |
+|      | January 20 | [[*IO]]                    |
+|------+------------+----------------------------|
 
 * Lectures
 :PROPERTIES:
@@ -199,6 +199,7 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :PROPERTIES:
 :ID:       d6691455-f4dc-44ec-b6ae-2b169766e1af
 :EXPORT_FILE_NAME: course-introduction
+:EXPORT_DATE: 2023-01-18
 :END:
 
 Welcome to Competitive Programming!  Today we will talk about the benefits of competitive programming, the course structure, and the tools we will
@@ -216,7 +217,9 @@ use in the course.
 
 ** IO
 :PROPERTIES:
+:ID:       dd79861f-468e-4462-8b45-50c146180aeb
 :EXPORT_FILE_NAME: io
+:EXPORT_DATE: 2023-01-20
 :END:
 
 The first thing your program needs to do is read in the test data and convert it to an internal structure.

@@ -8,5 +8,5 @@ main:
     url: docs/
     weight: 20
   - name: Lectures
-    url: lectures/
+    url: docs/schedule
     weight: 30

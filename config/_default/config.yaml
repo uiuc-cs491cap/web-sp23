@@ -9,6 +9,8 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 
 RelativeURLs: true
 CanonifyURLs: true
+buildFuture: true
+
 ############################
 ## LANGUAGE
 ############################

@@ -1,6 +1,7 @@
 +++
 title = "Course Introduction"
 author = ["Mattox Beckman"]
+date = 2023-01-18
 draft = false
 +++
 
