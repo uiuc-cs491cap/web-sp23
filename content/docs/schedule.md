@@ -5,7 +5,7 @@ draft = false
 weight = 4
 +++
 
-| Week | Date   | Lecture Topic / Objectives                                  |
-|------|--------|-------------------------------------------------------------|
-| 1    | Jan 18 | [Course Introduction]({{< relref "course-introduction" >}}) |
-|      | Jan 20 | [IO]({{< relref "io" >}})                                   |
+| Week | Date       | Lecture Topic / Objectives                                  |
+|------|------------|-------------------------------------------------------------|
+| 1    | January 18 | [Course Introduction]({{< relref "course-introduction" >}}) |
+|      | January 20 | [IO]({{< relref "io" >}})                                   |
