@@ -205,7 +205,7 @@ Welcome to Competitive Programming!  Today we will talk about the benefits of co
 use in the course.
 
 *** Slides
-- [[/static/course-introduction.pdf][Course Introduction Slides]]
+- [[/slides/course-introduction.pdf][Course Introduction Slides]]
 
 *** Judge Links
   - Register on [[https://codeforces.com][Code Forces]].  Your username *will be visible* to other students; you can create a "throwaway"

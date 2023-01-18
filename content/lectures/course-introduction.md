@@ -10,7 +10,7 @@ use in the course.
 
 ## Slides {#slides}
 
--   [Course Introduction Slides](/static/course-introduction.pdf)
+-   [Course Introduction Slides](/slides/course-introduction.pdf)
 
 
 ## Judge Links {#judge-links}
