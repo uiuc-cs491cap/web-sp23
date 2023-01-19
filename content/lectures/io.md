@@ -18,6 +18,6 @@ We will also talk about formatting options.
 We don't have a video for this lecture, but here are some slides with all the content.
 
 
-## SLides {#slides}
+## Slides {#slides}
 
 -   [IO Slides](/slides/io.pdf)
