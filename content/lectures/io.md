@@ -16,3 +16,8 @@ It all comes down to knowing how much data you are going to get.  There are thre
 We will also talk about formatting options.
 
 We don't have a video for this lecture, but here are some slides with all the content.
+
+
+## SLides {#slides}
+
+-   [IO Slides](/slides/io.pdf)
