@@ -183,11 +183,12 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 4
 :END:
 
-| Week | Date       | Lecture Topic / Objectives |
-|------+------------+----------------------------|
-|    1 | January 18 | [[*Course Introduction]]   |
-|      | January 20 | [[*IO]]                    |
-|------+------------+----------------------------|
+| Week | Date       | Lecture Topic / Objectives     |
+|------+------------+--------------------------------|
+|    1 | January 18 | [[*Course Introduction]]       |
+|      | January 20 | [[*IO]]                        |
+|------+------------+--------------------------------|
+|    2 | January 23 | [[*Standard Template Library]] |
 
 * Lectures
 :PROPERTIES:
@@ -236,6 +237,21 @@ We don't have a video for this lecture, but here are some slides with all the co
 
 *** Slides
 - [[/slides/io.pdf][IO Slides]]
+
+** Standard Template Library
+:PROPERTIES:
+:EXPORT_FILE_NAME: standard-template-library
+:EXPORT_DATE: 2023-01-23
+:ID:       fe376ef5-8f74-4277-a1d7-850a09fe14a6
+:END:
+
+Today we will discuss the standard template library for C++.  You don't have to use this for your own
+programming, but we will use it in our examples so you should know how it all works.
+
+*** Slides
+- [[/slides/standard-template-library.pdf][STL Slides]]
+
+
 
 * End :noexport:
 ;; Local Variables:
