@@ -189,6 +189,11 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |      | January 20 | [[*IO]]                        |
 |------+------------+--------------------------------|
 |    2 | January 23 | [[*Standard Template Library]] |
+|      | January 25 | [[*Complete Search]]           |
+|      | January 27 | Divide and Conquer             |
+|------+------------+--------------------------------|
+
+
 
 * Lectures
 :PROPERTIES:
@@ -251,6 +256,20 @@ programming, but we will use it in our examples so you should know how it all wo
 *** Slides
 - [[/slides/standard-template-library.pdf][STL Slides]]
 
+
+** Complete Search
+:PROPERTIES:
+:EXPORT_FILE_NAME: complete-search
+:EXPORT_DATE: 2023-01-25
+:ID:       846b343c-763c-45cc-a5a0-ff515285cb06
+:END:
+
+Also knowns as "brute force"; this paradigm happens when there's nothing to do but check all the possible solutions.
+
+BUT!!!  That doesn't mean that you can't be clever how you do it.
+
+*** Slides
+- [[/slides/complete-search.pdf][Complete Search Slides]]
 
 
 * End :noexport:
