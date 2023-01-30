@@ -192,6 +192,7 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |      | January 25 | [[*Complete Search]]           |
 |      | January 27 | [[*Divide and Conquer]]        |
 |------+------------+--------------------------------|
+|    3 | January 30 | [[*Greedy Algorithms]]         |
 
 
 
@@ -275,7 +276,7 @@ BUT!!!  That doesn't mean that you can't be clever how you do it.
 ** Divide and Conquer
 :PROPERTIES:
 :EXPORT_FILE_NAME: divide-and-conquer
-:EXPORT_DATE: 2023-01-25
+:EXPORT_DATE: 2023-01-27
 :ID:       99caeb59-31db-4e9d-a2cd-7c905eddedc0
 :END:
 
@@ -283,6 +284,18 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 
 *** Slides
 - [[/slides/divide-and-conquer.pdf][Divide and Conquer Slides]]
+
+** Greedy Algorithms
+:PROPERTIES:
+:EXPORT_FILE_NAME: greedy-algorithms
+:EXPORT_DATE: 2023-01-30
+:ID:       536a6476-b1c4-4dd7-b720-44a06977ecf4
+:END:
+
+*** Slides
+- [[/slides/greedy-algorithms.pdf][Greedy Algorithms Slides]]
+
+
 
 * End :noexport:
 ;; Local Variables:

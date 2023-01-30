@@ -1,7 +1,7 @@
 +++
 title = "Divide and Conquer"
 author = ["Mattox Beckman"]
-date = 2023-01-25
+date = 2023-01-27
 draft = false
 +++
 

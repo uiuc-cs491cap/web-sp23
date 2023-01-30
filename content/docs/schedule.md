@@ -12,3 +12,4 @@ weight = 4
 | 2    | January 23 | [Standard Template Library]({{< relref "standard-template-library" >}}) |
 |      | January 25 | [Complete Search]({{< relref "complete-search" >}})                     |
 |      | January 27 | [Divide and Conquer]({{< relref "divide-and-conquer" >}})               |
+| 3    | January 30 | [Greedy Algorithms]({{< relref "greedy-algorithms" >}})                 |
