@@ -295,6 +295,15 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 *** Slides
 - [[/slides/greedy-algorithms.pdf][Greedy Algorithms Slides]]
 
+** Introduction to Dynamic Programming
+:PROPERTIES:
+:EXPORT_FILE_NAME: dynamic-programming
+:EXPORT_DATE: 2023-02-01
+:ID:       61027489-7f78-493b-b559-4422cde4bc43
+:END:
+
+*** Slides
+- [[/slides/dynamic-programming.pdf][Dynamic Programming Slides]]
 
 
 * End :noexport:
