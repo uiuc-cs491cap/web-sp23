@@ -1,6 +1,7 @@
 +++
 title = "Schedule"
 author = ["Mattox Beckman"]
+date = 2023-01-18
 draft = false
 weight = 4
 +++
@@ -13,3 +14,4 @@ weight = 4
 |      | January 25 | [Complete Search]({{< relref "complete-search" >}})                     |
 |      | January 27 | [Divide and Conquer]({{< relref "divide-and-conquer" >}})               |
 | 3    | January 30 | [Greedy Algorithms]({{< relref "greedy-algorithms" >}})                 |
+|      | February 1 | [Dynamic Programming]({{< relref "dynamic-programming" >}})             |

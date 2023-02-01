@@ -181,18 +181,20 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :PROPERTIES:
 :EXPORT_FILE_NAME: schedule
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :weight 4
+:EXPORT_DATE: 2023-01-18
 :END:
 
-| Week | Date       | Lecture Topic / Objectives     |
-|------+------------+--------------------------------|
+| Week | Date       | Lecture Topic / Objectives |
+|------+------------+----------------------------|
 |    1 | January 18 | [[*Course Introduction]]       |
 |      | January 20 | [[*IO]]                        |
-|------+------------+--------------------------------|
+|------+------------+----------------------------|
 |    2 | January 23 | [[*Standard Template Library]] |
 |      | January 25 | [[*Complete Search]]           |
 |      | January 27 | [[*Divide and Conquer]]        |
-|------+------------+--------------------------------|
+|------+------------+----------------------------|
 |    3 | January 30 | [[*Greedy Algorithms]]         |
+|      | February 1 | [[*Dynamic Programming]]       |
 
 
 
@@ -295,7 +297,7 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 *** Slides
 - [[/slides/greedy-algorithms.pdf][Greedy Algorithms Slides]]
 
-** Introduction to Dynamic Programming
+** Dynamic Programming
 :PROPERTIES:
 :EXPORT_FILE_NAME: dynamic-programming
 :EXPORT_DATE: 2023-02-01

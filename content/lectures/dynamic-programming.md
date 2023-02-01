@@ -1,5 +1,5 @@
 +++
-title = "Introduction to Dynamic Programming"
+title = "Dynamic Programming"
 author = ["Mattox Beckman"]
 date = 2023-02-01
 draft = false
