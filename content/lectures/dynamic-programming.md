@@ -1,10 +1,10 @@
 +++
-title = "Dynamic Programming"
+title = "Graph Representations"
 author = ["Mattox Beckman"]
-date = 2023-02-01
+date = 2023-02-13
 draft = false
 +++
 
 ## Slides {#slides}
 
--   [Dynamic Programming Slides](/slides/dynamic-programming.pdf)
+-   [Graph Representation Slides](/slides/graph-representation.pdf)
