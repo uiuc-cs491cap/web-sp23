@@ -333,7 +333,7 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 
 - [[/slides/bfs-shortest-path.pdf][BFS Shortest Path]]
 - [[/slides/dijkstra-shortest-path.pdf][Dijkstra's Shortest Path Algorithm]]
-- [[/slides/bellman-ford-asd-spfa.pdf][Bellman Ford as SPFA]]
+- [[/slides/bellman-ford-and-spfa.pdf][Bellman Ford and SPFA]]
 
 
 ** All Points Shortest Path
