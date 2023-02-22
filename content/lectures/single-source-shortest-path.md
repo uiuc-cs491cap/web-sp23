@@ -7,4 +7,4 @@ draft = false
 
 ## Slides {#slides}
 
--   [Floyd Warshall](/slides/floys-warshall.pdf)
+-   [Floyd Warshall](/slides/floyd-warshall.pdf)

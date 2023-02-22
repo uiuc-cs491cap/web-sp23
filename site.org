@@ -345,7 +345,7 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 
 *** Slides
 
-- [[/slides/floys-warshall.pdf][Floyd Warshall]]
+- [[/slides/floyd-warshall.pdf][Floyd Warshall]]
 
 
 * End :noexport:
