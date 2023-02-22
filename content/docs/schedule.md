@@ -17,3 +17,4 @@ weight = 4
 |      | February 1  | [Dynamic Programming]({{< relref "dynamic-programming" >}})                 |
 | 5    | February 13 | [Graph Representations]({{< relref "graph-representations" >}})             |
 | 6    | February 20 | [Single Source Shortest Path]({{< relref "single-source-shortest-path" >}}) |
+| 6    | February 22 | [All Points Shortest Path]({{< relref "single-source-shortest-path" >}})    |

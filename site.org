@@ -184,21 +184,22 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_DATE: 2023-01-18
 :END:
 
-| Week | Date        | Lecture Topic / Objectives       |
-|------+-------------+----------------------------------|
+| Week | Date        | Lecture Topic / Objectives   |
+|------+-------------+------------------------------|
 |    1 | January 18  | [[*Course Introduction]]         |
 |      | January 20  | [[*IO]]                          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    2 | January 23  | [[*Standard Template Library]]   |
 |      | January 25  | [[*Complete Search]]             |
 |      | January 27  | [[*Divide and Conquer]]          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    3 | January 30  | [[*Greedy Algorithms]]           |
 |      | February 1  | [[*Dynamic Programming]]         |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    5 | February 13 | [[*Graph Representations]]       |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    6 | February 20 | [[*Single Source Shortest Path]] |
+|    6 | February 22 | [[*All Points Shortest Path]]    |
 
 
 * Lectures
@@ -333,6 +334,18 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 - [[/slides/bfs-shortest-path.pdf][BFS Shortest Path]]
 - [[/slides/dijkstra-shortest-path.pdf][Dijkstra's Shortest Path Algorithm]]
 - [[/slides/bellman-ford-asd-spfa.pdf][Bellman Ford as SPFA]]
+
+
+** All Points Shortest Path
+:PROPERTIES:
+:EXPORT_FILE_NAME: single-source-shortest-path
+:EXPORT_DATE: 2023-02-20
+:ID:       68db99bd-53c6-4425-aa45-c37d63573504
+:END:
+
+*** Slides
+
+- [[/slides/floys-warshall.pdf][Floyd Warshall]]
 
 
 * End :noexport:
