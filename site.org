@@ -199,7 +199,8 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |    5 | February 13 | [[*Graph Representations]]       |
 |------+-------------+------------------------------|
 |    6 | February 20 | [[*Single Source Shortest Path]] |
-|    6 | February 22 | [[*All Points Shortest Path]]    |
+|      | February 22 | [[*All Points Shortest Path]]    |
+|      | February 24 | [[*Traversals 2]]                |
 
 
 * Lectures
@@ -346,6 +347,17 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 *** Slides
 
 - [[/slides/floyd-warshall.pdf][Floyd Warshall]]
+
+** Traversals 2
+:PROPERTIES:
+:EXPORT_FILE_NAME: traversals-2
+:EXPORT_DATE: 2023-02-24
+:ID:       5c13742e-38e0-4436-8d7b-426af1f28ee5
+:END:
+
+*** Slides
+
+- [[/slides/traversals-2.pdf][Traversals 2]]
 
 
 * End :noexport:
