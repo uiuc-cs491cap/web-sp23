@@ -19,3 +19,4 @@ weight = 4
 | 6    | February 20 | [Single Source Shortest Path]({{< relref "single-source-shortest-path" >}}) |
 |      | February 22 | [All Points Shortest Path]({{< relref "single-source-shortest-path" >}})    |
 |      | February 24 | [Traversals 2]({{< relref "traversals-2" >}})                               |
+| 7    | February 27 | [Network Flow]({{< relref "network-flow" >}})                               |
