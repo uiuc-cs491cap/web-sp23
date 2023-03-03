@@ -20,3 +20,5 @@ weight = 4
 |      | February 22 | [All Points Shortest Path]({{< relref "single-source-shortest-path" >}})    |
 |      | February 24 | [Traversals 2]({{< relref "traversals-2" >}})                               |
 | 7    | February 27 | [Network Flow]({{< relref "network-flow" >}})                               |
+|      | March 1     | \*Prime Numbers                                                             |
+|      |             |                                                                             |

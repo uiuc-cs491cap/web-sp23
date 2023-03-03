@@ -184,25 +184,27 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_DATE: 2023-01-18
 :END:
 
-| Week | Date        | Lecture Topic / Objectives       |
-|------+-------------+----------------------------------|
+| Week | Date        | Lecture Topic / Objectives   |
+|------+-------------+------------------------------|
 |    1 | January 18  | [[*Course Introduction]]         |
 |      | January 20  | [[*IO]]                          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    2 | January 23  | [[*Standard Template Library]]   |
 |      | January 25  | [[*Complete Search]]             |
 |      | January 27  | [[*Divide and Conquer]]          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    3 | January 30  | [[*Greedy Algorithms]]           |
 |      | February 1  | [[*Dynamic Programming]]         |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    5 | February 13 | [[*Graph Representations]]       |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    6 | February 20 | [[*Single Source Shortest Path]] |
 |      | February 22 | [[*All Points Shortest Path]]    |
 |      | February 24 | [[*Traversals 2]]                |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    7 | February 27 | [[*Network Flow]]                |
+|      | March 1     | *Prime Numbers               |
+|      |             |                              |
 
 
 * Lectures
@@ -369,9 +371,49 @@ Divide and conquer allows you to split a problem up, usually eliminating half of
 :ID:       0422089d-5d4e-4d32-bed1-d0a4dfb47870
 :END:
 
+The Edmonds-Karp algorithm is a popular and efficient algorithm used to solve the max-flow problem in network flow
+theory. This algorithm is an extension of the Ford-Fulkerson algorithm, which is a simple algorithm for finding the
+maximum flow in a network. The Edmonds-Karp algorithm uses a breadth-first search approach to find the shortest
+augmenting path in the residual graph, making it faster and more efficient than the original Ford-Fulkerson algorithm.
+
 *** Slides
 
 - [[/slides/edmonds-karp.pdf][Edmonds Karp]]
+
+** Prime Numbers
+:PROPERTIES:
+:EXPORT_FILE_NAME: prime-numbers
+:EXPORT_DATE: 2023-03-01
+:ID:       d621ddd6-0b6d-4175-b474-314799ed46ae
+:END:
+
+Prime numbers are a familiar feature in mathematics, and often come up in competitive programming.  In this lecture
+we will derive the Sieve of Erastosthenes, show how to factor large numbers, and discuss the practical limits to the
+number of prime numbers we can generate during a contest.
+
+** Combinatorics
+:PROPERTIES:
+:EXPORT_FILE_NAME: combinatorics
+:EXPORT_DATE: 2023-03-06
+:ID:       d9bf37b1-8c13-4984-8448-adbf6f692b48
+:END:
+
+Combinatorics is the branch of mathematics that deals with counting and arranging objects.  We will cover some of the
+fundamental concepts in combinatorics, including binomial coefficients, permutations, derangements, and Catalan numbers.
+
+Binomial coefficients, also known as binomials, are a tool for counting the number of ways that a given set of objects
+can be arranged or selected. We will explain how to calculate binomial coefficients  to model different scenarios such
+as flipping coins or selecting items from a set.
+
+A permutation is a reordering of a set of items.  We will explain how to count the number of permutations and how to
+generate all the permutations of a given set. Derangements are permutations where no element appears in its original
+position.  We will examine how to calculate the number of derangements for a set and discuss its applications.
+
+Finally, we will discuss Catalan numbers, which we can use to count the number of ways to arrange parentheses and many
+other natural phenomenon.
+
+
+
 
 * End :noexport:
 ;; Local Variables:
