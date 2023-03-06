@@ -6,7 +6,7 @@ draft = false
 +++
 
 Combinatorics is the branch of mathematics that deals with counting and arranging objects.  We will cover some of the
-fundamental concepts in combinatorics, including binomial coefficients, permutations, derangements, and Catalan numbers.
+fundamental concepts in combinatorics, including binomial coefficients, permutations, and derangements.
 
 Binomial coefficients, also known as binomials, are a tool for counting the number of ways that a given set of objects
 can be arranged or selected. We will explain how to calculate binomial coefficients  to model different scenarios such
@@ -16,5 +16,7 @@ A permutation is a reordering of a set of items.  We will explain how to count t
 generate all the permutations of a given set. Derangements are permutations where no element appears in its original
 position.  We will examine how to calculate the number of derangements for a set and discuss its applications.
 
-Finally, we will discuss Catalan numbers, which we can use to count the number of ways to arrange parentheses and many
-other natural phenomenon.
+
+## Slides {#slides}
+
+-   [Combinatorics](/slides/combinatorics.pdf)
