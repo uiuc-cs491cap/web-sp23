@@ -184,27 +184,29 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_DATE: 2023-01-18
 :END:
 
-| Week | Date        | Lecture Topic / Objectives       |
-|------+-------------+----------------------------------|
+| Week | Date        | Lecture Topic / Objectives   |
+|------+-------------+------------------------------|
 |    1 | January 18  | [[*Course Introduction]]         |
 |      | January 20  | [[*IO]]                          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    2 | January 23  | [[*Standard Template Library]]   |
 |      | January 25  | [[*Complete Search]]             |
 |      | January 27  | [[*Divide and Conquer]]          |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    3 | January 30  | [[*Greedy Algorithms]]           |
 |      | February 1  | [[*Dynamic Programming]]         |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    5 | February 13 | [[*Graph Representations]]       |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    6 | February 20 | [[*Single Source Shortest Path]] |
 |      | February 22 | [[*All Points Shortest Path]]    |
 |      | February 24 | [[*Traversals 2]]                |
-|------+-------------+----------------------------------|
+|------+-------------+------------------------------|
 |    7 | February 27 | [[*Network Flow]]                |
 |      | March 1     | [[*Prime Numbers]]               |
+|------+-------------+------------------------------|
 |    8 | March 6     | [[*Combinatorics]]               |
+|      | March 8     | [[*GCD]]                         |
 
 
 * Lectures
@@ -418,6 +420,21 @@ position.  We will examine how to calculate the number of derangements for a set
 - [[/slides/combinatorics.pdf][Combinatorics]]
 
 
+** GCD
+:PROPERTIES:
+:EXPORT_FILE_NAME: GCD
+:EXPORT_DATE: 2023-03-08
+:ID:       f118cc9f-89b0-4a60-92e7-ed16708011fb
+:END:
+
+GCD, or Greatest Common Divisor, is a mathematical concept that refers to the largest positive integer that divides two or more numbers without leaving a remainder.
+
+In class we will derive Euclid's algorithm, an efficient way of computing GCD, as well as explore some of the properties of GCD you will want to know when solving
+competitve programming problems.
+
+*** Materials
+
+- [[/handouts/gcd.pdf][GCD Handout]]
 
 * End :noexport:
 ;; Local Variables:
