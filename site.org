@@ -470,7 +470,7 @@ other areas of mathematics.
 
 *** Materials
 
-- [[/slides/bit-manipulation][Slides]]
+- [[/slides/bit-manipulations.pdf][Slides]]
 
 ** Traveling Sales Person
 :PROPERTIES:
