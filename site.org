@@ -184,30 +184,31 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 :EXPORT_DATE: 2023-01-18
 :END:
 
-| Week | Date        | Lecture Topic / Objectives   |
-|------+-------------+------------------------------|
+| Week | Date        | Lecture Topic / Objectives       |
+|------+-------------+----------------------------------|
 |    1 | January 18  | [[*Course Introduction]]         |
 |      | January 20  | [[*IO]]                          |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    2 | January 23  | [[*Standard Template Library]]   |
 |      | January 25  | [[*Complete Search]]             |
 |      | January 27  | [[*Divide and Conquer]]          |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    3 | January 30  | [[*Greedy Algorithms]]           |
 |      | February 1  | [[*Dynamic Programming]]         |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    5 | February 13 | [[*Graph Representations]]       |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    6 | February 20 | [[*Single Source Shortest Path]] |
 |      | February 22 | [[*All Points Shortest Path]]    |
 |      | February 24 | [[*Traversals 2]]                |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    7 | February 27 | [[*Network Flow]]                |
 |      | March 1     | [[*Prime Numbers]]               |
-|------+-------------+------------------------------|
+|------+-------------+----------------------------------|
 |    8 | March 6     | [[*Combinatorics]]               |
 |      | March 8     | [[*GCD]]                         |
-
+|    9 | March 20    | [[*Bit Manipulation]]            |
+|      | March 22    | [[*Traveling Sales Person]]      |
 
 * Lectures
 :PROPERTIES:
@@ -458,7 +459,36 @@ other areas of mathematics.
 
 *** Materials
 
-- [[/handouts/inclusion-exclusion.pdf][Inclusion-Exclusion Slides]]
+- [[/slides/inclusion-exclusion.pdf][Inclusion-Exclusion Slides]]
+
+** Bit Manipulation
+:PROPERTIES:
+:EXPORT_FILE_NAME: bit-manipulation
+:EXPORT_DATE: 2023-03-20
+:ID:       d7d4e811-1f15-42ca-b44c-fd51153aa8e1
+:END:
+
+*** Materials
+
+- [[/slides/bit-manipulation][Slides]]
+
+** Traveling Sales Person
+:PROPERTIES:
+:EXPORT_FILE_NAME: tsp
+:EXPORT_DATE: 2023-03-22
+:ID:       d7d4e811-1f15-42ca-b44c-fd51153aa8e1
+:END:
+
+The Traveling Salesperson Problem (TSP) is a well-known problem in computer science and operations research that asks
+for the shortest possible route that visits every city exactly once and returns to the starting city.  TSP has many
+practical applications, including in logistics, transportation planning, and circuit board design.
+
+*** Materials
+
+- [[/handouts/tsp-handout.pdf][Handout]]
+- [[/slides/tsp-slides.pdf][Slides]]
+
+
 
 * End :noexport:
 ;; Local Variables:

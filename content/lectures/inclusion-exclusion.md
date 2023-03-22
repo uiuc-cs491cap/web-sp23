@@ -21,4 +21,4 @@ other areas of mathematics.
 
 ## Materials {#materials}
 
--   [Inclusion-Exclusion Slides](/handouts/inclusion-exclusion.pdf)
+-   [Inclusion-Exclusion Slides](/slides/inclusion-exclusion.pdf)

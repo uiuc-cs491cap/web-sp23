@@ -23,3 +23,5 @@ weight = 4
 |      | March 1     | [Prime Numbers]({{< relref "prime-numbers" >}})                             |
 | 8    | March 6     | [Combinatorics]({{< relref "combinatorics" >}})                             |
 |      | March 8     | [GCD]({{< relref "GCD" >}})                                                 |
+| 9    | March 20    | [Bit Manipulation]({{< relref "bit-manipulation" >}})                       |
+|      | March 22    | [Traveling Sales Person]({{< relref "tsp" >}})                              |
