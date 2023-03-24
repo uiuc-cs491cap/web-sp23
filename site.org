@@ -488,7 +488,19 @@ practical applications, including in logistics, transportation planning, and cir
 - [[/handouts/tsp-handout.pdf][Handout]]
 - [[/slides/tsp-slides.pdf][Slides]]
 
+** Fast Exponentiation
+:PROPERTIES:
+:EXPORT_FILE_NAME: fast-exponentiation
+:EXPORT_DATE: 2023-03-24
+:ID:       71052961-1628-496c-b36d-7e223977c62d
+:END:
 
+Exponents are fun, but using bit techniques we covered last time we can compute them significantly faster than the standard technique.
+This generalizes to other forms as well, such as computing Fibonacci numbers is sub-linear time.
+
+*** Materials
+
+- [[/slides/fast-exponentiation.pdf][Slides]]
 
 * End :noexport:
 ;; Local Variables:

@@ -7,4 +7,4 @@ draft = false
 
 ## Materials {#materials}
 
--   [Slides](/slides/bit-manipulation)
+-   [Slides](/slides/bit-manipulations.pdf)
