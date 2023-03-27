@@ -502,6 +502,17 @@ This generalizes to other forms as well, such as computing Fibonacci numbers is 
 
 - [[/slides/fast-exponentiation.pdf][Slides]]
 
+** Points, Lines, and Vectors
+:PROPERTIES:
+:EXPORT_FILE_NAME: points-lines-vectors
+:EXPORT_DATE: 2023-03-27
+:ID:       bd6ab2e0-c715-428f-a055-5e8cc58708d2
+:END:
+
+*** Materials
+
+- [[/slides/points-lines-vectors-slides.pdf][Slides]]
+
 * End :noexport:
 ;; Local Variables:
 ;; eval: (org-link-set-parameters "class" :export #'my-org-export-class-link)
