@@ -530,7 +530,7 @@ This generalizes to other forms as well, such as computing Fibonacci numbers is 
 
 ** Line Sweep
 :PROPERTIES:
-:EXPORT_FILE_NAME: points-lines-vectors
+:EXPORT_FILE_NAME: line-sweep
 :EXPORT_DATE: 2023-04-05
 :END:
 
