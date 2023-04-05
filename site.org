@@ -14,7 +14,7 @@
 :END:
 
 #+HTML: <video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
-#+HTML:   <source type="video/mp4" src="/videos/line-sweep-convex-hull.mp4"}></source>
+#+HTML:   <source type="video/mp4" src="/videos/LineSweepConvexHull.mp4"}></source>
 #+HTML: </video>
 
 * Docs
