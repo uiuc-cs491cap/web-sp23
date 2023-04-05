@@ -1,10 +1,10 @@
 +++
-title = "Points, Lines, and Vectors"
+title = "Line Sweep"
 author = ["Mattox Beckman"]
-date = 2023-03-27
+date = 2023-04-05
 draft = false
 +++
 
 ## Materials {#materials}
 
--   [Slides](/slides/points-lines-vectors-slides.pdf)
+-   [Line Sweep Convex Hull]({{< relref "line-sweep-convex-hull" >}}) Video

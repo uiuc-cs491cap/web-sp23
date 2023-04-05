@@ -2,6 +2,21 @@
 #+MACRO: uva @@hugo:{{<UVa2 number="$1" >}}@@
 
 
+* Videos
+:PROPERTIES:
+:HUGO_SECTION: videos
+:EXPORT_HUGO_SECTION: videos
+:END:
+
+** Line Sweep Convex Hull
+:PROPERTIES:
+:EXPORT_FILE_NAME: line-sweep-convex-hull
+:END:
+
+#+HTML: <video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
+#+HTML:   <source type="video/mp4" src="/videos/line-sweep-convex-hull.mp4"}></source>
+#+HTML: </video>
+
 * Docs
 :PROPERTIES:
 :HUGO_SECTION: docs
@@ -512,6 +527,18 @@ This generalizes to other forms as well, such as computing Fibonacci numbers is 
 *** Materials
 
 - [[/slides/points-lines-vectors-slides.pdf][Slides]]
+
+** Line Sweep
+:PROPERTIES:
+:EXPORT_FILE_NAME: points-lines-vectors
+:EXPORT_DATE: 2023-04-05
+:END:
+
+*** Materials
+
+- [[*Line Sweep Convex Hull]] Video
+
+
 
 * End :noexport:
 ;; Local Variables:
