@@ -17,6 +17,24 @@
 #+HTML:   <source type="video/mp4" src="/videos/LineSweepConvexHull.mp4"}></source>
 #+HTML: </video>
 
+** Line Sweep Closest Points
+:PROPERTIES:
+:EXPORT_FILE_NAME: line-sweep-closest-points
+:END:
+
+#+HTML: <video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
+#+HTML:   <source type="video/mp4" src="/videos/LineSweepClosestPoints.mp4"}></source>
+#+HTML: </video>
+
+** Line Sweep Area of Union
+:PROPERTIES:
+:EXPORT_FILE_NAME: line-sweep-area-of-union
+:END:
+
+#+HTML: <video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
+#+HTML:   <source type="video/mp4" src="/videos/LineSweepAreaOfUnion.mp4"}></source>
+#+HTML: </video>
+
 * Docs
 :PROPERTIES:
 :HUGO_SECTION: docs
@@ -537,6 +555,8 @@ This generalizes to other forms as well, such as computing Fibonacci numbers is 
 *** Materials
 
 - [[*Line Sweep Convex Hull]] Video
+- [[*Line Sweep Closest Points]] Video
+- [[*Line Sweep Area of Union]] Video
 
 
 
