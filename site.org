@@ -35,6 +35,15 @@
 #+HTML:   <source type="video/mp4" src="/videos/LineSweepAreaOfUnion.mp4"}></source>
 #+HTML: </video>
 
+** Edit Distance Video
+:PROPERTIES:
+:EXPORT_FILE_NAME: edit-distance
+:END:
+
+#+HTML: <video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
+#+HTML:   <source type="video/mp4" src="/videos/EditDistance.mp4"}></source>
+#+HTML: </video>
+
 * Docs
 :PROPERTIES:
 :HUGO_SECTION: docs
@@ -242,6 +251,8 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |      | March 8     | [[*GCD]]                         |
 |    9 | March 20    | [[*Bit Manipulation]]            |
 |      | March 22    | [[*Traveling Sales Person]]      |
+|------+-------------+----------------------------------|
+|   11 | April 10    | [[*Edit Distance]]               |
 
 * Lectures
 :PROPERTIES:
@@ -627,6 +638,20 @@ while (i <= k && j < n) {
   ++i;
 }
 #+end_src
+
+** Edit Distance
+:PROPERTIES:
+:EXPORT_FILE_NAME: line-sweep
+:EXPORT_DATE: 2023-04-05
+:END:
+
+Today we will talk about a classic string DP problem, determining the edit distance
+between two strings.
+
+*** Materials
+
+- [[/slides/edit-distance-slides.pdf][Slides]]
+- [[*Edit Distance Video]]
 
 
 * End :noexport:

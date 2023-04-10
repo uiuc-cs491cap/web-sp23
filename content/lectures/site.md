@@ -33,6 +33,15 @@ draft = false
 </video>
 
 
+### Edit Distance Video {#edit-distance}
+
+<video id="my-video" controls preload="auto" width="720" data-setup="playbackRates: [0.5,1,1.5,2]">
+
+<source type="video/mp4" src="/videos/EditDistance.mp4"}></source>
+
+</video>
+
+
 ## Docs {#docs}
 
 
@@ -231,6 +240,7 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |      | March 8     | [GCD](#GCD)                                                 |
 | 9    | March 20    | [Bit Manipulation](#bit-manipulation)                       |
 |      | March 22    | [Traveling Sales Person](#tsp)                              |
+| 11   | April 10    | [Edit Distance](#line-sweep)                                |
 
 
 ## Lectures {#lectures}
@@ -550,3 +560,15 @@ while (i <= k && j < n) {
   ++i;
 }
 ```
+
+
+### Edit Distance {#line-sweep}
+
+Today we will talk about a classic string DP problem, determining the edit distance
+between two strings.
+
+
+#### Materials {#materials}
+
+-   [Slides](/slides/edit-distance-slides.pdf)
+-   [Edit Distance Video](#edit-distance)

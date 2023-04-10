@@ -25,3 +25,4 @@ weight = 4
 |      | March 8     | [GCD]({{< relref "GCD" >}})                                                 |
 | 9    | March 20    | [Bit Manipulation]({{< relref "bit-manipulation" >}})                       |
 |      | March 22    | [Traveling Sales Person]({{< relref "tsp" >}})                              |
+| 11   | April 10    | [Edit Distance]({{< relref "line-sweep" >}})                                |
