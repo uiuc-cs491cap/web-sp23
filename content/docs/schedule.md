@@ -26,3 +26,4 @@ weight = 4
 | 9    | March 20    | [Bit Manipulation]({{< relref "bit-manipulation" >}})                       |
 |      | March 22    | [Traveling Sales Person]({{< relref "tsp" >}})                              |
 | 11   | April 10    | [Edit Distance]({{< relref "line-sweep" >}})                                |
+|      | April 14    | [Rabin-Karp Algorithm]({{< relref "rabin-karp" >}})                         |

@@ -253,7 +253,7 @@ McKinley Health Center:217-333-2700, 1109 South Lincoln Avenue, Urbana, Illinois
 |      | March 22    | [[*Traveling Sales Person]]      |
 |------+-------------+----------------------------------|
 |   11 | April 10    | [[*Edit Distance]]               |
-
+|      | April 14    | [[*Rabin-Karp Algorithm]]        |
 * Lectures
 :PROPERTIES:
 :HUGO_SECTION: lectures
@@ -652,6 +652,19 @@ between two strings.
 
 - [[/slides/edit-distance-slides.pdf][Slides]]
 - [[*Edit Distance Video]]
+
+
+** Rabin-Karp Algorithm
+:PROPERTIES:
+:EXPORT_FILE_NAME: rabin-karp
+:EXPORT_DATE: 2023-04-14
+:END:
+
+The Rabin-Karp algorithm uses a rolling hash function to find a string within another string.
+
+*** Materials
+
+- [[/slides/rabin-karp.pdf][Slides]]
 
 
 * End :noexport:

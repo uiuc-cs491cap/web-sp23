@@ -6,9 +6,7 @@ draft = false
 +++
 
 Today we will talk about a classic string DP problem, determining the edit distance
-
-
-## between two strings. {#between-two-strings-dot}
+between two strings.
 
 
 ## Materials {#materials}
